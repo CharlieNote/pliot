@@ -13,7 +13,7 @@
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **관련 주피터 노트북**:
-  - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13fOE2XiHbrwHC3qFfmdu3yHdaiAOIohM?usp=sharing)] 
+  - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13fOE2XiHbrwHC3qFfmdu3yHdaiAOIohM?usp=sharing) 
 - **시연 영상**:  
 [![유동인구 카운트 영상](https://github.com/oracleyu01/pilot/blob/main/sjk.jpg)](https://github.com/oracleyu01/pilot/blob/main/sjk_with_counts_vrew_exported.mp4)
  
@@ -27,9 +27,9 @@
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [알림 시스템 API 문서](https://your-api-link.com/)
 - **관련 주피터 노트북**:
-  - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13fOE2XiHbrwHC3qFfmdu3yHdaiAOIohM?usp=sharing)] 
+  - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13fOE2XiHbrwHC3qFfmdu3yHdaiAOIohM?usp=sharing) 
 - **시연 이미지**: 
-  ![도둑 감지 영상](https://user-images.githubusercontent.com/yourusername/your-video-file2.mp4)
+  - [폐결절 이미지 ](https://github.com/CharlieNote/pliot/blob/main/%ED%8F%90%EA%B2%B0%EC%A0%88.png)
 
 ---
 
