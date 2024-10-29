@@ -12,15 +12,16 @@
 - **관련 링크**:
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
+- **관련 주피터 노트북**:
+  - [구글 코렙 주피터 노트북].(https://colab.research.google.com/drive/13fOE2XiHbrwHC3qFfmdu3yHdaiAOIohM?usp=sharing)] 
 - **시연 영상**:  
 [![유동인구 카운트 영상](https://github.com/oracleyu01/pilot/blob/main/sjk.jpg)](https://github.com/oracleyu01/pilot/blob/main/sjk_with_counts_vrew_exported.mp4)
- - **관련 주피터 노트북**:
-    [구글 코렙 주피터 노트북].(https://colab.research.google.com/drive/13fOE2XiHbrwHC3qFfmdu3yHdaiAOIohM?usp=sharing)] 
+ 
 
 ---
 
-### 2. 도둑감지 YOLO 신경망 활용 파일럿 프로젝트
-- **프로젝트 설명**: 무인 감시 시스템을 위한 도둑 감지 기능. YOLO 모델을 통해 특정 위치에서의 불법 침입자를 실시간으로 탐지.
+### 2. 엑스레이 사진에서 해결절을 찾는 신경망
+- **프로젝트 설명**: x-rey 사진을 분석하여 페결절을 자동으로 탐지하고, 의료진이 더 정확한 진단을 내리는데 도움을 주기 위해 신경망 모델을 개발하는 목표로 합니다.
 - **주요 기능**: 실시간 침입자 감지, 위험 알림, 비상 조치 기능.
 - **관련 링크**:
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
