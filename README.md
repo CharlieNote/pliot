@@ -14,7 +14,7 @@
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:  
 [![유동인구 카운트 영상](https://github.com/oracleyu01/pilot/blob/main/sjk.jpg)](https://github.com/oracleyu01/pilot/blob/main/sjk_with_counts_vrew_exported.mp4)
-  - **관련 주피터 노트북 **:
+ - **관련 주피터 노트북**:
     [구글 코렙 주피터 노트북].(https://colab.research.google.com/drive/13fOE2XiHbrwHC3qFfmdu3yHdaiAOIohM?usp=sharing)] 
 
 ---
