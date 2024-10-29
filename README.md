@@ -26,7 +26,9 @@
 - **관련 링크**:
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [알림 시스템 API 문서](https://your-api-link.com/)
-- **시연 영상**:  
+- **관련 주피터 노트북**:
+  - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13fOE2XiHbrwHC3qFfmdu3yHdaiAOIohM?usp=sharing)] 
+- **시연 이미지**: 
   ![도둑 감지 영상](https://user-images.githubusercontent.com/yourusername/your-video-file2.mp4)
 
 ---
